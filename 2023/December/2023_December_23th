@@ -1,0 +1,10 @@
+# yarn berry를 써야하는 개인적인 이유를 찾았다.
+
+## 하드 드라이브 용량
+
+yarn berry를 안 쓰고 node_modules에 패키지를 저장해서 프로젝트를 만들 때 파일 크기가 적어도 1GB를 넘었다. 그래서 잘 안쓰는 프로젝트들의 node_modules 폴더들을 자주 지웠다.
+yarn berry를 쓴 프로젝트의 용량을 살펴봤더니 200MB가 안되었다.
+
+앞으로는 yarn berry를 써야할 것 같다.
+
+Tag: Yarn Berry
